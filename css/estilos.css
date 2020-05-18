@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://www.mundodomarketing.com.br/images/editoriais/Dados_e_tecnologia_CAPA.jpg);font-family: Arial;
+    color: Whitesmoke;}
+  
+  
+  .menu{
+    background-color: White;
+  }
+  
+  a{
+    text-decoration:none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul{
+    display:flex;
+    Justify-content: space-around
+  }
+  
+  .site-title{
+    text-align: center
+  }
+  .site-subtitle{
+    text-align: center
+  }
